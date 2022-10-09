@@ -14,5 +14,5 @@ For identifying if students / workers are active on their Computers for a certai
 ##Note
 It is prone to false negatives if status of profile is changed manually and tracking profile activity on any social platform/instant messaging site is not a good way to track peoples productivity or work ethic.
 
-###**RATHER TRUST WORK TO BE DONE!**
+###RATHER TRUST WORK TO BE DONE!
 👋🙂
