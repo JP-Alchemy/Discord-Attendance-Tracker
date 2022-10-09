@@ -1,0 +1,7 @@
+cd /MY_APP
+kill -9 `cat pid.txt`
+cd ..
+rm -r MY_APP/
+mkdir MY_APP
+echo "Success"
+exit 5

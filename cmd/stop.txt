@@ -1,0 +1,4 @@
+cd /MY_APP
+kill -9 `cat pid.txt`
+echo "Success"
+exit 5

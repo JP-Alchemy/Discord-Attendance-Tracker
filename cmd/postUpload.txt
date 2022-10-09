@@ -1,0 +1,5 @@
+cd /MY_APP/
+chmod 777 ./DiscordAttendanceBot
+nohup ./DiscordAttendanceBot > bot.out & echo $! > pid.txt
+echo "Success"
+exit 5
